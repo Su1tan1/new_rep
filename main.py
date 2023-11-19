@@ -2,7 +2,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow
 from PyQt5.QtGui import QPainter, QColor
 import sys
 import random
-from ui1 import Ui_MainWindow
+from Ui_file import Ui_MainWindow
 
 SCREEN_SIZE = [500, 400]
 
